@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: '',
   pathPrefix: '/',
   title: 'Taras Mogetich',
   subtitle: '',
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Taras Mogetich',
     photo: '/tarasphoto.jpg',
-    bio: 'Business Development Representative @ Amazon Web Services',
+    bio: 'Business Development Graduate @ Amazon Web Services',
     contacts: {
       email: '#',
       facebook: '',
