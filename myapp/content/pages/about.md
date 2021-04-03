@@ -1,13 +1,13 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/bathalf.jpeg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Roots in Ukrine, born in London, bred in Buckinghamshire.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+After studying Economics and Econometrics at University of Bristol, I'm now supporting startups in their cloud journeys at Amazon Web Services. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Sport has always been my lifeblood - from getting stuck in to martial arts from the age of eight to now running long distance. I'm also keen to share the benefits it brings to others who are at a disadvantage, having coached tennis to children on the autism spectrum. I actively follow athletics, basketball, boxing, tennis and most importantly, religiously follow my local football club Wycombe Wanderers FC. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+More recently, I've been developing my coding skills and spend my free time applying them to all things sport.
