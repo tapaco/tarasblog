@@ -42,7 +42,7 @@ The requests returned a huge range of interesting metrics for each activity, wit
 
 After filtering for only running activities, the parameters I wanted to analyse were the distance, moving time, cadence (steps per minute), total elevation gain, heartrate and speed (metres per second). I converted the latter into the more commonly used 'pace' measurement - minutes per kilometre. 
 
-More recently, cadence stood out for me as some runs have left my shins aching, so I'm keen to track and push my cadence above the optimum of 180 steps per minute to ensure that my strides are efficient and minimise the risk of injuries, as highlighted by [Sweat Science](https://www.outsideonline.com/2377976/stop-overthinking-your-running-cadence).
+More recently, cadence stood out for me as some runs have left my shins aching, so I'm keen to track and push my cadence above the optimum of 180 steps per minute. This ensures that my strides are efficient and minimises the risk of injuries, as highlighted by [Sweat Science](https://www.outsideonline.com/2377976/stop-overthinking-your-running-cadence).
 
 ![manny.jpeg](/media/manny.jpeg)
 
