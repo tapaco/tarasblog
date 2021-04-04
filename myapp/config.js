@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: '',
+  url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Taras Mogetich',
-  subtitle: '',
-  copyright: '',
+  subtitle: 'tapaco blog',
+  copyright: 'tapaco',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
