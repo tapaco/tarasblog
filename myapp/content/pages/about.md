@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/bathalf.jpeg"
 ---
 
-Roots in Ukrine, born in London, bred in Buckinghamshire.
+Roots in Ukraine, born in London, bred in Buckinghamshire.
 
 After studying Economics and Econometrics at University of Bristol, I'm now supporting startups in their cloud journeys at Amazon Web Services. 
 
